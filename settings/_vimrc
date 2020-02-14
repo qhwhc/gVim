@@ -102,7 +102,7 @@ set fdm=indent "
 
  
 "²å¼ş¹ÜÀí
-set rtp+=C:\gvim\gVimPortable\Data\settings\vimfiles\Vundle.vim\
+set rtp+=C:\gVim\gVimPortable\Data\settings\vimfiles\Vundle.vim\
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'

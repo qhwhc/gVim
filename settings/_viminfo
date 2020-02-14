@@ -28,18 +28,20 @@
 	include<>
 
 # File marks:
-'0  33  0  ~\_vimrc
-'1  61  0  ~\_vimrc
-'2  98  0  ~\_vimrc
-'3  66  0  ~\_vimrc
-'4  111  0  ~\_vimrc
-'5  3  0  E:\OneDrive - Platinum\software\Software\Windows\卸载小娜\Uninstall Cortana.cmd
-'6  1  0  E:\OneDrive - Platinum\software\Software\Windows\卸载小娜\Uninstall Cortana.cmd
-'7  1  0  E:\OneDrive - Platinum\B\IT\Tech\Data\System\MySystem\1.HelloWorld\run.bat
-'8  1  0  C:\Users\ccc\Desktop\reg.reg
-'9  1  0  C:\Users\ccc\Desktop\reg2.reg
+'0  1  0  ~\vimfiles\readme.txt
+'1  1  0  C:\Users\ccc\Desktop\新建文本文档.txt
+'2  33  0  ~\_vimrc
+'3  61  0  ~\_vimrc
+'4  98  0  ~\_vimrc
+'5  66  0  ~\_vimrc
+'6  111  0  ~\_vimrc
+'7  3  0  E:\OneDrive - Platinum\software\Software\Windows\卸载小娜\Uninstall Cortana.cmd
+'8  1  0  E:\OneDrive - Platinum\software\Software\Windows\卸载小娜\Uninstall Cortana.cmd
+'9  1  0  E:\OneDrive - Platinum\B\IT\Tech\Data\System\MySystem\1.HelloWorld\run.bat
 
 # Jumplist (newest first):
+-'  1  0  ~\vimfiles\readme.txt
+-'  1  0  C:\Users\ccc\Desktop\新建文本文档.txt
 -'  33  0  ~\_vimrc
 -'  61  0  ~\_vimrc
 -'  98  0  ~\_vimrc
@@ -137,9 +139,14 @@
 -'  4  14  C:\gvim\gVimPortable\test.c
 -'  1  1  C:\gvim\gVimPortable\test.c
 -'  4  14  C:\gvim\gVimPortable\test.c
--'  1  1  C:\gvim\gVimPortable\test.c
 
 # History of marks within files (newest to oldest):
+
+> ~\vimfiles\readme.txt
+	"	1	0
+
+> C:\Users\ccc\Desktop\新建文本文档.txt
+	"	1	0
 
 > ~\_vimrc
 	"	33	0
@@ -172,9 +179,6 @@
 	"	1	0
 
 > C:\Users\ccc\Desktop\reg2.reg
-	"	1	0
-
-> C:\Users\ccc\Desktop\新建文本文档.txt
 	"	1	0
 
 > C:\gvim\gVimPortable\App\vim\vim72\doc\usr_toc.txt
